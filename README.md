@@ -46,7 +46,7 @@ Podemos añadirle una version a estos cambios realizados.
 
 La segunda refactorizacion que realizaremos sera implementar la nueva interfaz a los metodos que antiguamente utilizaban la interfaz `NewInterface`.
 
-![](images/6-animal.png)
+![](images/6-animal.png)f
 
 Y añadir comentarios en formato Javadoc para la documentacion de metodos.
 
